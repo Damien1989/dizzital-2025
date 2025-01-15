@@ -4,7 +4,7 @@ export default function Home() {
   return (
   <div>
     <p>Test</p>
-    <Button>Test</Button>
+    <Button>Test !</Button>
   </div>
   );
 }
